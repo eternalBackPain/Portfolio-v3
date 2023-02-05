@@ -12,8 +12,8 @@
 // }
 
 let circles = [];
-let numCircles = 40;
-let gravity = 0.001;
+let numCircles = 60;
+let gravity = 0.005;
 let windResistance = 0.999;
 
 
